@@ -1,4 +1,4 @@
-import edu.princeton.cs.algs4.Queue;
+import Queue;
 
 
 public class Board {
